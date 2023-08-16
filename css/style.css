@@ -1,0 +1,24 @@
+.container-fluid,
+.inner-form,
+nav,
+.home-content,
+.content {
+  background-color: rgb(36, 53, 63);
+}
+h1,
+button,
+.welcomeMsg {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.welcomeMsg,
+.nav-items a {
+  font-size: 48px !important;
+  color: rgb(34, 108, 151) !important;
+}
+.inner-form,
+.content {
+  box-shadow: 5px 5px 40px 10px rgb(0, 0, 0, 0.7);
+}
+p a:hover {
+  text-decoration: underline !important;
+}
